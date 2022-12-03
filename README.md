@@ -1,4 +1,4 @@
-#Hi, I’m Aniket!
+Hi, I’m Aniket!
 ----------------------------------------------------------------------------------------------------------------------------
 I am a Software Engineer who started creating content for self learning and now a Mulesoft Certified Developer.
 
@@ -38,7 +38,7 @@ I am a Software Engineer who started creating content for self learning and now 
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=`dataweave-practise-main&theme=jolly)](https://github.com/aniket74/dataweave-practise-main)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=dataweave-practise-main&theme=jolly)](https://github.com/aniket74/dataweave-practise-main)
 
 <!---
 aniket74/aniket74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
