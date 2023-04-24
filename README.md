@@ -41,7 +41,7 @@ I am a Software Engineer who started creating content for self learning and now 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=dataweave-practise-main&theme=jolly)](https://github.com/aniket74/dataweave-practise-main)
 
 ### Mule API CI CD Demo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=dataweave-practise-main&theme=jolly)](https://github.com/aniket74/ci-cd-demo-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=ci-cd-demo-api&theme=jolly)](https://github.com/aniket74/ci-cd-demo-api)
 
 <!---
 aniket74/aniket74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
