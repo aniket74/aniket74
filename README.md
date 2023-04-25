@@ -43,6 +43,9 @@ I am a Software Engineer who started creating content for self learning and now 
 ### Mule API CI CD Demo
 [![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=ci-cd-demo-api&theme=jolly)](https://github.com/aniket74/ci-cd-demo-api)
 
+### Mule Scatter Gather Demo
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=scatter-gather-demo&theme=jolly)](https://github.com/aniket74/scatter-gather-demo)
+
 <!---
 aniket74/aniket74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
