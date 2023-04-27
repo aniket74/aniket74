@@ -40,10 +40,9 @@ I am a Software Engineer who started creating content for self learning and now 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=dataweave-practise-main&theme=jolly)](https://github.com/aniket74/dataweave-practise-main)
 
-### Mule API CI CD Demo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=ci-cd-demo-api&theme=jolly)](https://github.com/aniket74/ci-cd-demo-api)
+### Mule apps
 
-### Mule Scatter Gather Demo
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=ci-cd-demo-api&theme=jolly)](https://github.com/aniket74/ci-cd-demo-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=scatter-gather-demo&theme=jolly)](https://github.com/aniket74/scatter-gather-demo)
 
 <!---
