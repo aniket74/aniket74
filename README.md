@@ -9,6 +9,7 @@ I am a Software Engineer who started creating content for self learning and now 
 ## 👋About Me
 
 •Mulesoft Certified Developer - Level 1
+•Mulesoft Certified Integration Associate
 
 ### Follow Me👇
 
@@ -28,6 +29,7 @@ I am a Software Engineer who started creating content for self learning and now 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aniket74&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <p align="center">
   <a href="https://github.com/aniket74">
