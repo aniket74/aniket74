@@ -14,6 +14,7 @@ I am a Software Engineer who started creating content for self learning and now 
 ### Follow Me👇
 
 <a href="https://www.linkedin.com/in/aniket-bhosale7/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://trailblazer.me/id/abhosale14"><img src="https://img.shields.io/badge/-Trailblazer-blue?style=for-the-badge&logo=Trailblazer&logoColor=white"/></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
