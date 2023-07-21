@@ -40,7 +40,7 @@ I am a Software Engineer who started creating content for self learning and now 
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=dataweave-practise-main&theme=jolly)](https://github.com/aniket74/dataweave-practise-main)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket74&repo=Dataweave_practices&theme=jolly)](https://github.com/aniket74/Dataweave_practices)
 
 ### Mule apps
 
